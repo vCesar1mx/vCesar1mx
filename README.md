@@ -1,2 +1,7 @@
-- 👋 Hola soy, @vCesar1mx
-Soy un programador joven, con mas de 20 proyectos en diferentes lenguajes (JAVA/JS/NODE/BASH/MS-DOS/VBS/PHP NATIVE/JQUERY/SQL/C++)
+Programador y Administrador de Servidores Linux Arch
+
+Langs: JS,JAVA,PHP NATIVE,SQL,JQUERY,C#,C++
+Nivel: Mid-Senior
+Job: esSource (Codigos en Español)
+News: http-monitor & BOT-DISCORD WITH I.A.
+Coming soon: Control de ventas multiplataforma & Script Bash Manager For Ubuntu >20.04
