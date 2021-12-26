@@ -7,12 +7,9 @@ Langs: ![image](https://user-images.githubusercontent.com/71222384/146317956-971
 
 
 
-Nivel: Mid-Senior
 
 Jobs: esSource & SocialSys
 
-News: http-monitor & BOT-DISCORD WITH I.A.
+News: http-monitor & BOT-Discord with I.A.
 
-Coming soon: Control de ventas multiplataforma || Script Bash Manager For Ubuntu >20.04 || SocialScrap
-
-
+Coming soon: Control de ventas multiplataforma || Script Bash Manager For Ubuntu >20.04 || SocialScrap || TV with Ads
