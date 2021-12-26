@@ -1,9 +1,18 @@
 ## Cesar Vazquez - @vCesar1mx
 
-### Software Developer & System Administrator
+### ![sys2](https://user-images.githubusercontent.com/71222384/147418135-0fc37a34-0ad8-461f-a62b-b2cc3060e835.png)
 
-Langs: ![image](https://user-images.githubusercontent.com/71222384/146317956-971639d9-2ccf-428c-839e-d50de392e6cd.png)
-,![image](https://user-images.githubusercontent.com/71222384/146318006-7e0567fd-1194-42c2-b016-83dddcf351f2.png),![image](https://user-images.githubusercontent.com/71222384/146318028-221382db-4c51-47f1-b8bd-68522c631d2f.png),![image](https://user-images.githubusercontent.com/71222384/146318051-9df1cf57-ee54-4f08-9a9a-e41434b1187f.png), ![jquery](https://user-images.githubusercontent.com/71222384/146318662-e9c018da-5c21-49d2-8579-80dcc0f9e5d1.png)
+
+
+## Lenguajes y Utilidades
+![nodejs](https://user-images.githubusercontent.com/71222384/147417684-bc8b8550-aa66-4778-a0a3-14a7c2eca50a.png)
+![mysql](https://user-images.githubusercontent.com/71222384/147417736-4b03f28a-b194-4313-83a7-d4a8f5a1025d.png)
+![php](https://user-images.githubusercontent.com/71222384/147417793-29531ddb-6612-4e68-9a00-f5c289e48198.png)
+![c++](https://user-images.githubusercontent.com/71222384/147419203-8937ccd5-9857-4322-87f2-b102bb9a4f7d.jpg)
+![bash](https://user-images.githubusercontent.com/71222384/147417879-1d894ed8-3f4b-4a80-9c67-9b5ba70b0197.jpg)
+![bootstrap5](https://user-images.githubusercontent.com/71222384/147418923-1f31bf15-f2c0-4fd9-b5f1-a552528275eb.png)
+![html-css](https://user-images.githubusercontent.com/71222384/147419138-fd059003-f368-473a-b38b-6feb4d932d2e.png)
+![linux](https://user-images.githubusercontent.com/71222384/147419232-e52652d3-3b05-43a6-9d10-0f1730e55dab.png)
 
 
 
