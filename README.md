@@ -11,7 +11,6 @@
 ![c++](https://user-images.githubusercontent.com/71222384/147419203-8937ccd5-9857-4322-87f2-b102bb9a4f7d.jpg)
 ![bash](https://user-images.githubusercontent.com/71222384/147417879-1d894ed8-3f4b-4a80-9c67-9b5ba70b0197.jpg)
 ![bootstrap5](https://user-images.githubusercontent.com/71222384/147418923-1f31bf15-f2c0-4fd9-b5f1-a552528275eb.png)
-![html-css](https://user-images.githubusercontent.com/71222384/147419138-fd059003-f368-473a-b38b-6feb4d932d2e.png)
 ![linux](https://user-images.githubusercontent.com/71222384/147419232-e52652d3-3b05-43a6-9d10-0f1730e55dab.png)
 
 
