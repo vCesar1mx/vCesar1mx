@@ -15,9 +15,10 @@
 
 
 
+Organizaciones: esSource & SecuredCV (R)
 
-Jobs: esSource & SocialSys
+Proyectos desarrollo: http-monitor & BOT-Discord with I.A.
 
-News: http-monitor & BOT-Discord with I.A.
+Trabajando en: https://api.haliacraft.com, no dare mas avances hasta terminar la beta!.
 
-Coming soon: Control de ventas multiplataforma || Script Bash Manager For Ubuntu >20.04 || SocialScrap || TV with Ads
+Proximos proyectos: TV with Ads
