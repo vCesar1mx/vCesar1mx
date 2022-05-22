@@ -4,11 +4,7 @@
 
 ### Financiado por:
 
-![descarga (4)](https://user-images.githubusercontent.com/71222384/169706127-b10984fd-9a63-4d0c-92dc-79672f811a22.png)![simbolo programacion1](https://user-images.githubusercontent.com/71222384/169706327-55f197df-ec69-48b9-b52b-a2eec000ca3a.png)![simbolo programacion1](https://user-images.githubusercontent.com/71222384/169706398-54ccb13a-1402-4682-8aa5-67aa06f1dbbf.png)
-
-
-
-
+![descarga (4)](https://user-images.githubusercontent.com/71222384/169706127-b10984fd-9a63-4d0c-92dc-79672f811a22.png)![simbolo programacion1](https://user-images.githubusercontent.com/71222384/169706398-54ccb13a-1402-4682-8aa5-67aa06f1dbbf.png)![descarga (3)](https://user-images.githubusercontent.com/71222384/169706556-2741b60a-6989-4fa5-bfb6-2374947a9057.png)![opensource-logo](https://user-images.githubusercontent.com/71222384/169706690-2000d78a-b7f9-47b1-9238-c4688df17e73.gif)
 
 ### Tecnologias dominadas:
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
