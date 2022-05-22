@@ -1,24 +1,12 @@
 ## Cesar Vazquez - @vCesar1mx
 
-### ![sys2](https://user-images.githubusercontent.com/71222384/147418135-0fc37a34-0ad8-461f-a62b-b2cc3060e835.png)
+#### Contacto: vcesar@haliacraft.com
 
+### Tecnologias dominadas:
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
+### Manejo de datos dominados:
+![image](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)![image](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## Lenguajes y Utilidades
-![nodejs](https://user-images.githubusercontent.com/71222384/147417684-bc8b8550-aa66-4778-a0a3-14a7c2eca50a.png)
-![mysql](https://user-images.githubusercontent.com/71222384/147417736-4b03f28a-b194-4313-83a7-d4a8f5a1025d.png)
-![php](https://user-images.githubusercontent.com/71222384/147417793-29531ddb-6612-4e68-9a00-f5c289e48198.png)
-![c++](https://user-images.githubusercontent.com/71222384/147419203-8937ccd5-9857-4322-87f2-b102bb9a4f7d.jpg)
-![bash](https://user-images.githubusercontent.com/71222384/147417879-1d894ed8-3f4b-4a80-9c67-9b5ba70b0197.jpg)
-![bootstrap5](https://user-images.githubusercontent.com/71222384/147418923-1f31bf15-f2c0-4fd9-b5f1-a552528275eb.png)
-![linux](https://user-images.githubusercontent.com/71222384/147419232-e52652d3-3b05-43a6-9d10-0f1730e55dab.png)
-
-
-
-Organizaciones: esSource & SecuredCV (R)
-
-Proyectos desarrollo: http-monitor & BOT-Discord with I.A.
-
-Trabajando en: https://api.haliacraft.com, no dare mas avances hasta terminar la beta!.
-
-Proximos proyectos: TV with Ads
+### Estoy certificado por:
+![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)![image](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)![image](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)![image](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)![image](https://user-images.githubusercontent.com/71222384/169681815-db72b24f-5e42-4399-bfbb-75715720ac04.png)
