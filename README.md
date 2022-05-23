@@ -39,4 +39,4 @@
 ### Mis estadisticas:
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vCesar1mx&theme=vue)
 ![image](https://github-readme-stats.vercel.app/api?username=vCesar1mx)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=vCesar1mx)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=vCesar1mx) 
