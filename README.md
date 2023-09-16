@@ -98,21 +98,20 @@ I am passionate about technology and constantly seeking opportunities to learn n
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vCesar1mx&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr>
+
+
+<tr><td valign="top" width="50%">
+
+<img src="https://metrics.lecoq.io/vCesar1mx" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vCesar1mx&repo=WH-Tebex-MicroService&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr>
+
+</table>  
 
 <br/>  
-
-  
-
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=vCesar1mx&&style=flat-square)  
-  
-
-<br/>  
-
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
